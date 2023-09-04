@@ -1,0 +1,13 @@
+.bg-image {
+    /* background-image: url('./images/images/desktop/image-header.jpg'); */
+    height: 350px;
+    background-size: cover;
+    background-position: center;
+}
+
+#bg-text p{
+    font-weight: 600px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: -250px;
+}
